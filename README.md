@@ -1,6 +1,6 @@
 # alg-library
 
-Security
-Network
-Struct Data
-Math Modeling
+- Security
+- Network
+- Struct Data
+- Math Modeling
