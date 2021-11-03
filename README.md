@@ -3,8 +3,8 @@
 - Security
 - Network
 - Struct Data
-- Math Modeling
-
+- Math Modeling and Analysis
+- Math Statiscics and probability theory
 
 https://github.com/IlyaAleichik/java-cli-tcp-ip
 https://github.com/IlyaAleichik/cs-wpf-bsuir-oop
