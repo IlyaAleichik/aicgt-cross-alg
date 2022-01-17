@@ -5,7 +5,8 @@
 - Struct Data
 - Math Modeling and Analysis
 - Math Statiscics and probability theory
-- 
+
+
 https://github.com/IlyaAleichik/java-cli-tcp-ip
 https://github.com/IlyaAleichik/itransition-course
 https://github.com/IlyaAleichik/syp-lab-project
