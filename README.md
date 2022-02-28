@@ -7,6 +7,16 @@
 - Math Statiscics and probability theory
 
 
+Use:
+C/C++
+C#
+HTML
+Java
+JavaScript
+PHP
+Python
+Shell
+
 https://github.com/IlyaAleichik/java-cli-tcp-ip
 https://github.com/IlyaAleichik/itransition-course
 https://github.com/IlyaAleichik/syp-lab-project
