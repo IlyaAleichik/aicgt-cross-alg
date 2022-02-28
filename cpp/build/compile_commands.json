@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ilya/Desktop/cross-alg/cpp/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/cross-alg.dir/main.cpp.o -c /home/ilya/Desktop/cross-alg/cpp/main.cpp",
+  "file": "/home/ilya/Desktop/cross-alg/cpp/main.cpp"
+}
+]
